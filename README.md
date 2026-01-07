@@ -1,3 +1,4 @@
+##NOTE: Development in Progress still working on it to optimize.
 # 🧠 Gemini CLI Multi-Agent Development Workflow
 
 A disciplined, repo-aware AI development system using **Gemini CLI**, **tmux**, **strict workflows**, and **Git automation**.
