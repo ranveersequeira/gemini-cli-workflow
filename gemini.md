@@ -1,3 +1,5 @@
+#NOTE: This is sample repo level gemini.md file.
+
 # Gemini Usage Guide – Backend Repository
 
 This repository contains the Node.js backend and APIs.
