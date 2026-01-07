@@ -3,7 +3,11 @@
 
 A disciplined, repo-aware AI development system using **Gemini CLI**, **tmux**, **strict workflows**, and **Git automation**.
 
-🎥 **Demo video:** _(attached separately)_
+## 🎥 Demo Videos
+
+- 🎥 **Demo video:** [DEMO0] https://youtu.be/FPjAs8YO6NY?si=l45VUbCOHhpjf2rK
+- 🎥 **Demo video:** [DEMO1] https://youtu.be/UNB4EYiQWMI?si=274ncOjtnikashuP
+
 
 ---
 
