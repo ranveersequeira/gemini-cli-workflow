@@ -3,6 +3,8 @@
 
 A disciplined, repo-aware AI development system using **Gemini CLI**, **tmux**, **strict workflows**, and **Git automation**.
 
+### Medium Blog - https://ranveersequeira.medium.com/building-full-stack-applications-with-gemini-cli-tmux-a-repo-first-multi-agent-workflow-27c082ea5d83
+
 ## 🎥 Demo Videos
 
 - 🎥 **Demo video:** [DEMO0] https://youtu.be/FPjAs8YO6NY?si=l45VUbCOHhpjf2rK
@@ -10,6 +12,7 @@ A disciplined, repo-aware AI development system using **Gemini CLI**, **tmux**, 
 
 
 ---
+
 
 ## 🔍 What This Repository Is
 
