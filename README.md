@@ -1,14 +1,14 @@
-## NOTE: Development in Progress still working on it to optimize.
+## NOTE: You can use the same worflow using this [AI AGENT Workflow](https://www.npmjs.com/package/ai-agent-workflow)
 # 🧠 Gemini CLI Multi-Agent Development Workflow
 
 A disciplined, repo-aware AI development system using **Gemini CLI**, **tmux**, **strict workflows**, and **Git automation**.
 
-### Medium Blog - https://ranveersequeira.medium.com/building-full-stack-applications-with-gemini-cli-tmux-a-repo-first-multi-agent-workflow-27c082ea5d83
+### Medium Blog - [LINK](https://ranveersequeira.medium.com/building-full-stack-applications-with-gemini-cli-tmux-a-repo-first-multi-agent-workflow-27c082ea5d83)
 
 ## 🎥 Demo Videos
 
-- 🎥 **Demo video:** [DEMO0] https://youtu.be/FPjAs8YO6NY?si=l45VUbCOHhpjf2rK
-- 🎥 **Demo video:** [DEMO1] https://youtu.be/UNB4EYiQWMI?si=274ncOjtnikashuP
+- 🎥 **Demo video:** [DEMO0](https://youtu.be/FPjAs8YO6NY?si=l45VUbCOHhpjf2rK)
+- 🎥 **Demo video:** [DEMO1](https://youtu.be/UNB4EYiQWMI?si=274ncOjtnikashuP)
 
 
 ---
